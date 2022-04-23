@@ -2,5 +2,6 @@
 实验数据采用FB15K数据
 实验结果：
 
-![image](https://user-images.githubusercontent.com/57054357/164180260-08f72f99-28d2-4bc0-843c-985b77b3b03b.png)
+![image](https://user-images.githubusercontent.com/57054357/164908910-ed633308-9bde-4aa4-beb6-a034ea469fb5.png)
+
 
